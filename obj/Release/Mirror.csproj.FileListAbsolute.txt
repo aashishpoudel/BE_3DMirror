@@ -1,0 +1,18 @@
+F:\My works\All Mirror Graphics Content\Project Code\obj\Release\Mirror.exe
+F:\My works\All Mirror Graphics Content\Project Code\bin\Release\Mirror.exe
+F:\My works\All Mirror Graphics Content\Project Code\obj\Release\ResolveAssemblyReference.cache
+F:\My works\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsAbout.resources
+F:\My works\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsMain.resources
+F:\My works\All Mirror Graphics Content\Project Code\obj\Release\Mirror.csproj.GenerateResource.Cache
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Mirror.exe
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\bin\Release\Mirror.exe
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\ResolveAssemblyReference.cache
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsAbout.resources
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsMain.resources
+E:\DropBox Contents\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Mirror.csproj.GenerateResource.Cache
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\bin\Release\Mirror.exe
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\ResolveAssemblyReference.cache
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsAbout.resources
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Graphic_Objects.fclsMain.resources
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Mirror.csproj.GenerateResource.Cache
+E:\Dropbox\My Creation\All Mirror Graphics Content\Project Code\obj\Release\Mirror.exe
